@@ -1,0 +1,119 @@
+.basy {
+    display: flex;
+    justify-content: space-between;
+    background-color: #4343fd;
+    text-align: center;
+    color: #fff;
+    height: 40px;
+
+}
+.basy_first h2 {
+    margin: 0;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 5px 5px 5px 30px;
+}
+.basy input {
+    background-color: #27343d;
+    color: antiquewhite;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.blocks {
+    background-color: white;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+}
+.parts_a {
+    display: flex;
+    flex-direction: column;
+    font-size: 9px;
+    font-family: Arial;
+    font-weight: 200;
+    text-align: center;
+    margin: 20px 30px 0px 100px;
+    line-height: 2.7em;
+}
+.bez {
+    text-decoration: none;
+    color: #080809;
+}
+.parts_b {
+    width: 650px;
+    height: 25px;
+    border: 2px solid white;
+    background-color: white;
+    margin: 20px 15px 0px 20px;
+}
+.parts_b h1 {
+    color: #080809;
+    font-size: 8px;
+    font-weight: bolder;
+    margin: 1px 10px 1px 10px;
+}
+.parts_b h2 {
+    color: #080809;
+    font-size: 8px;
+}
+.btn {
+    width: 100px;
+    height: 15px;
+    background-color: #4545c7;
+    color: white;
+    text-align: center;
+    font-size: 9px;
+    border: none;
+    margin-left: 330px;
+}
+.parts_c {
+    width: 250px;
+    height: 180px;
+    background-color: white;
+    color: #080809;
+    margin: 20px 30px 10px 50px;
+    display: flex;
+    flex-direction: column;
+}
+.clr {
+    width: 230px;
+    border: 1px solid #c99ec9;
+    background-color: #c99ec9;
+    color: #080809;
+    font-weight: bolder;
+    font-size: 12px;
+    margin: 10px 20px 5px 10px;
+}
+.parts_c p1 {
+    background-color: white;
+    color: #080809;
+    line-height: 1em;
+    font-size: 12px;
+    margin: 10px 20px 5px 10px;
+
+}
+.n {
+    text-decoration: none;
+    color: #080809;
+}
+.parts_d {
+    width: 750px;
+    height: 600px;
+    background-color: white;
+    margin: 0px 10px 10px 10px;
+}
+.parts_d img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 10px 10px 10px 10px;
+}
+.blocks_a {
+    width: 738px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 180px;
+    background-color: white;
+}
